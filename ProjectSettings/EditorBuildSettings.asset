@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ardk-samples-main/ardk-samples-main/Assets/Samples/Scanning/Scenes/Recording.unity
+    guid: a8b815c6414994643b8e7a33e5b2ccf2
   m_configObjects:
     Niantic.Lightship.AR.LightshipSettings: {fileID: 11400000, guid: 51380f468db9f2f438b7e91f7a6354cc,
       type: 2}
